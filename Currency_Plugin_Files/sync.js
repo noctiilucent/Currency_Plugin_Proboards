@@ -1,0 +1,1 @@
+/* This will be used for syncing user data across tabs and windows. I think this is why we need to use the yootil library and we might want to do the same. */
